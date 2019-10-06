@@ -1,0 +1,19 @@
+body{
+  background: url('../images/back.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-color: #464646;
+}
+#img_logo{
+	max-height:100px;
+	max-width:100px;
+	margin: 0 auto;
+}
+
+#login_modal .modal-dialog{
+width: 350px;
+}
+
+#login_modal input[type="text"], input[type="password"]{
+	margin-top: 10px;
+}
